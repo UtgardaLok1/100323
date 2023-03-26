@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Xml.Linq;
 using System.Xml.Serialization;
 
-namespace MRT
+namespace Diagnosis
 {
     public class Physician
     {
